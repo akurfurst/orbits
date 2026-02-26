@@ -1,5 +1,6 @@
 #include "Center.h"
 
+
 bn::fixed_point Center::position() {
     return _sprite.position();
 }
